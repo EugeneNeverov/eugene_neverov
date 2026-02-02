@@ -1,5 +1,4 @@
-# eugene_neverov
-# Yevgeniy Neverov
+# Eugene Neverov
 
 Product Owner • Game Development Consultant • Mentor • Advisor 
 
