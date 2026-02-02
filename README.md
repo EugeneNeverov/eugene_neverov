@@ -1,2 +1,32 @@
 # eugene_neverov
-About myself
+# Yevgeniy Neverov
+
+Product Owner • Game Development Consultant • Mentor • Advisor 
+
+I help studios and startups ship games and platforms with:
+- strong product strategy
+- scalable monetization
+- business feasibility
+- understanding business terms not on papers, on practice
+- D2C & platform thinking
+
+## What I work on
+- 🎮 Game production & live-service design
+- 🧠 Product strategy & audits
+- 💰 Monetization & publishing pipelines
+- ⚙️ Business-product bridge (legalisation, licensiation, P&L)
+
+## Selected work
+- Game Monetization Frameworks
+- Product Audit Checklists
+- Financial Docs
+- Pitchdecks
+- Platform & Standalone Strategy
+
+## Mentorship & Advisory
+- IGDA mentor
+- 1:1 product audits
+- Studio advisory (pre-production → launch → post-launch )
+
+📫 Contact:
+LinkedIn | Website | Email
