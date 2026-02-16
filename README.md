@@ -31,4 +31,4 @@ I help studios and startups ship games and platforms with:
 - Studio advisory (pre-production → launch → post-launch )
 
 📫 Contact:
-You can find me on [**LinkedIn**](https://www.linkedin.com/in/yevgeniyvneverov/). | [**Email**](yev.neverov@gmail.com)
+You can find me on [**LinkedIn**](https://www.linkedin.com/in/yevgeniyvneverov/) | [**Email**](yev.neverov@gmail.com)
